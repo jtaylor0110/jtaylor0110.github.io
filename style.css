@@ -11,3 +11,10 @@ h1{
 h2{
   font-family: 'Ropa Sans', sans-serif;
 }
+
+#experience{
+  background-color: white;
+  color: black;
+  margin: 50px;
+  padding: 50px;
+}
