@@ -12,6 +12,23 @@ h2{
   font-family: 'Ropa Sans', sans-serif;
 }
 
+#header{
+  background-color:white;
+  color: black;
+  margin:50px;
+  padding: 50px;
+
+}
+
+#profile{
+  background-color:white;
+  color: black;
+  margin:50px;
+  padding: 50px;
+
+}
+
+
 #experience{
   background-color: white;
   color: black;
