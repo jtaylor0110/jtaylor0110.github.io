@@ -35,20 +35,23 @@ h2{
   padding: 50px;
 }
 
-#education{}
+#education{
   background-color: white;
   color: black;
   margin: 50px;
   padding: 20px;
+}
 
-#skills{}
+#skills{
   background-color: white;
   color: black;
   margin: 50px;
   padding: 20px;
+}
 
-#footer{}
+#footer{
   background-color: white;
   color: black;
   margin: 50px;
   padding: 20px;
+}
