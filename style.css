@@ -28,10 +28,27 @@ h2{
 
 }
 
-
 #experience{
   background-color: white;
   color: black;
   margin: 50px;
   padding: 50px;
 }
+
+#education{}
+  background-color: white;
+  color: black;
+  margin: 50px;
+  padding: 50px;
+
+#skills{}
+  background-color: white;
+  color: black;
+  margin: 50px;
+  padding: 50px;
+
+#footer{}
+  background-color: white;
+  color: black;
+  margin: 50px;
+  padding: 50px;
